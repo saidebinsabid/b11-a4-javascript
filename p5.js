@@ -22,5 +22,5 @@ console.log(calculateWatchTime([100, 99, 119, 300]));
 console.log(calculateWatchTime([1000, 2000, 725]));
 console.log(calculateWatchTime([100, 3800]));
 console.log(calculateWatchTime([]));
-console.log(calculateWatchTime([]));
+console.log(calculateWatchTime([-100]));
 console.log(calculateWatchTime([100, 3800, "90"]));
